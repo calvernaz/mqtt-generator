@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/calvernaz/mqtt-generator#readme",
   "dependencies": {
+    "change": "0.0.0",
     "jsonpath": "0.2.9"
   }
 }
