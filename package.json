@@ -1,0 +1,26 @@
+{
+  "name": "mqtt-generator",
+  "version": "1.0.0",
+  "description": "MQTT message generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvernaz/mqtt-generator.git"
+  },
+  "keywords": [
+    "mqtt",
+    "generator"
+  ],
+  "author": "Cesar Alvernaz <cesar@livesense.com.au> (https://weirdloop.org)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/calvernaz/mqtt-generator/issues"
+  },
+  "homepage": "https://github.com/calvernaz/mqtt-generator#readme",
+  "dependencies": {
+    "jsonpath": "0.2.9"
+  }
+}
